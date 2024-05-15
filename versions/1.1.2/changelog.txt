@@ -1,0 +1,23 @@
+## Polish & Performance
+- New Fancy Menus!
+
+## Mod Removals
+  - Removed DynamicFPS to stop a confliction with Smooth Menu.
+  - Removed JourneyMap to fix a performance issue. (Replaced with Xaero's Minimap)
+  - Removed Entity Culling to fix an issue with Immersive Portals.
+  - Removed LevelZ.
+  - Removed way2wayfabric as it was for a different minimap mod.
+  
+
+## Added Mods
+  - FancyMenu
+  - Controlify
+  - Traveler's Backpack
+  - Xaero's Minimap (Replaced JourneyMap)
+  - Controlling
+  - Clumps
+  - Enhanced Block Entities
+  - e4mc (Multiplayer without port forwarding. Open to LAN option)
+
+## Updates
+  - Menu redesigns! (All made by Neo himself)
