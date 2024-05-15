@@ -3,8 +3,8 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.0",
-      "releasedAt": 1715780968434,
+      "id": "1.1.0",
+      "releasedAt": 1715782535882,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/project/neos-modpack-v1/"
