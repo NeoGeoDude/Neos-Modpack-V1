@@ -10,8 +10,7 @@
           "modrinth": "https://modrinth.com/project/neos-modpack-v1/"
         }
       }
-    }
-    
+    },
     {
       "id": "1.1.0",
       "releasedAt": 1715782535882,
@@ -21,7 +20,6 @@
         "updateType": "minor"
         }
     }
-      
     }
   ]
 }
