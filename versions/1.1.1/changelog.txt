@@ -1,0 +1,8 @@
+# Polish & Performance
+- Added Sodium 0.5.3 to support Immersive Portals.
+
+# Fixes
+ - Fixed issues with performance while rendering chunks by adding Sodium.
+
+# Added Mods
+  - Sodium 0.5.3
