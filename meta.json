@@ -19,7 +19,17 @@
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/neos-modpack-v1/version/1.1.0/"
         }
-    }
+      }
+    },
+    {
+      "id": "1.1.1",
+      "releasedAt": 1715794355831,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/neos-modpack-v1/version/1.1.1/"
+        }
+      }
     }
   ]
 }
