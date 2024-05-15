@@ -17,7 +17,8 @@
       "releasedAt": 1715782535882,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/project/neos-modpack-v1/"
+          "modrinth": "https://modrinth.com/project/neos-modpack-v1/",
+        "updateType": "minor"
         }
     }
       
